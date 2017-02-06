@@ -14,8 +14,13 @@ public class HelloGItHub {
 
 			System.out.println("conflite test");
 				System.out.println("pushed");
+
 				System.out.println("pushed2");
-		}
+
+	System.out.println("git pull test");
+
+
 	
 
+}
 }
