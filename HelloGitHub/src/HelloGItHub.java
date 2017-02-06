@@ -18,7 +18,7 @@ public class HelloGItHub {
 				System.out.println("pushed2");
 
 	System.out.println("git pull test");
-
+System.out.println("git fetch2");
 
 	
 
